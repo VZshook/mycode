@@ -6,5 +6,5 @@ Instructions on how to use code
 What needs to be installed before you start
 ## Built with
 [Python]
-##authors
+## authors
 * **name** - * initaila work*
